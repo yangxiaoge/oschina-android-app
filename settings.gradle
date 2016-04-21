@@ -1,0 +1,2 @@
+include ':app'
+include ':social_sdk_library_project'

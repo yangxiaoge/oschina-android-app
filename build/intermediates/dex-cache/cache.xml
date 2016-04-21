@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="81aa0e8e77d948204aa6754019c6f3c04dd922e3">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\classes-1b7f4da56504fa4c4b984a62b5ceef3c4a36c4e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.joanzapata.android\android-iconify\1.0.9\27817b0ae26d4fa788711f1f75aaa45d76901722\android-iconify-1.0.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27817b0ae26d4fa788711f1f75aaa45d76901722">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\android-iconify-1.0.9-9f26a572fca93829e5f1ad81b5df4457ccddbc2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.networkbench.newlens.agent.android\nbs.newlens.agent\2.2.7\c52077e2aed871ea21025f307c9aff23a81a1c0f\nbs.newlens.agent-2.2.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c52077e2aed871ea21025f307c9aff23a81a1c0f">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\nbs.newlens.agent-2.2.7-b23988762f8c7262bc69a24a70797e4a56224c00.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\libs\xstream-1.4.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bce3282142b63068260f021fcbe48b72e8d71a1a">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\xstream-1.4.7-1b4c271aa81fb386896e750c8d41a28af6a549cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\httpclient-4.3.6-8bf35ee2bba818564cbd6641d936c584519fade0.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="28a019bad5e1233094def85a752f6c6d2501155d">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\pinyin4j-2.5.0-faa0057dceb13f74195e8d265a9954cef18dbe32.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\SocialSDK_Sina.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f11202cb71112f923a80c75d42e029fc53257e9c">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\SocialSDK_Sina-c526c96d10b73fd0ca2520feaf3c69304c7c6cc2.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\SocialSDK_tumblr.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="878b6efdfa8bf5bb06347d5d3e2eb5574ed51139">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\SocialSDK_tumblr-8bb6815c7e6245652e2344fd6bdaf43e251460d7.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\libs\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\library-2.4.0-bbc8db05fdef5a8d73bebc50b6b4d91353ece679.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\umeng_social_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03e186fabdab66983e2b2aa42a2b2de7cb37dc4a">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\umeng_social_sdk-0dea0181365102d976c786635aa38b8311b55c22.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\classes-3e636cc9534d0ab54413927bd791c71b0ada8f0e.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_2-a9dd45970f1cd5d8d8033f24698ea0a1133d803e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\core-3.2.0-4be72ef6e9f7b34674c8be314515d122c177ea37.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\SocialSDK_flickr.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c4fd16cd67a50d9261173be6b4fcb28f95167003">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\SocialSDK_flickr-aa782f503ccb3a7282173a7cfba58494f0c0e9f0.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-321b1c913413b11a2b26d119a3413be4dd3d35fd.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\SocialSDK_scrshot.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8afd739e1c878e7b63cc31fd645ccccd8d6bf344">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\SocialSDK_scrshot-90854c48a15d7a4d896aaf626606eec986d9f173.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\SocialSDK_tencentWB_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6f744074067eb201171c9c8ff1ca45ed821a76a8">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_2-bd0cc954dcbaaf06212186b9c3e87219177e0dfb.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\classes-3b63291d0abd40c90a3dcb3994c515a5452c0f14.jar" />
+    </item>
+    <item
+        jar="F:\ZTEsoft\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-66721b3fab04810200c24fe4f1033fef3db9fa46.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-08d8e4a579097262b072871d30b3cc0983335494.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\libs\baidumapapi_v3_2_0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="46ca4c3c74e1ddc60b45c490485e5df05babe6a5">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_2_0-98b6156570c6919980d1bc3b3215670ce0e285ed.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\SocialSDK_actionbarview.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a66c96619cf1e196c1f436f934cda51f9f35f530">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\SocialSDK_actionbarview-e66eb7234cbd3655ac8f495e6b41e7201ce8402e.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4aa8d4cde1e2201e5360daaae4bd9fdbf4194d2a">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_2-24c627e9271027a2659177939fee84fe079ddc86.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\SocialSDK_tencentWB_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="328c5351cae13f2ab29450d22b6c02d0ac88a855">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_1-f3cb62d8bbb07783ccf248129fdcabd45ca6f207.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_1-2eb737db6e0e5109e59c678b05768e8851ce5916.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\org.kymjs.kjframe\kjframe\2.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="60538003caaf7201ec4945bae8071c9e38b3cd91">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\classes-a5b8ff26eced2fe49edbe9da844b8c607ea2c968.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\SocialSDK_tencentWB_3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8180c00c6056e1a8e10159f7bf50eac1f4a85449">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\SocialSDK_tencentWB_3-e144b047e7210bb8776fbc6370716e6e113c309f.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\SocialSDK_WeiXin_1-c74548d59698508d24112a4e6a5af384c0e8a185.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8962f50f03ab83787c2c3035d0c79fe79cb0f67d">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\SocialSDK_QQZone_3-d014cd4b9ebfde7e8e50b3e519f717b02c1b2403.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40e6c98f908a4d233b525311e0312939bf30f90">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\classes-0fd8731b93dd2afcc32ead6838d8c6701ae3e58c.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\libs\locSDK_3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09224a1883da8b5bd37e766f4fab80570d879898">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\locSDK_3.1-5bf14d1baf781f2b051fd8094c5851564c7352c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\butterknife-6.1.0-69d2d3c27627661806f0bd051a18a12cc184adc9.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2e76a4b693db19fdde80d30123204d0ed2454ea9">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\classes-6fa4ce46e0a5acb7e392b41ad86511014e86059e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.9-84d4bd66f8cad624bcdcc86f55ed20f5517877c2.jar" />
+    </item>
+    <item
+        jar="D:\GitHub_clone\oschina-android-app\app\build\intermediates\exploded-aar\oschina-android-app\social_sdk_library_project\unspecified\jars\libs\httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="D:\GitHub_clone\oschina-android-app\app\build\intermediates\pre-dexed\debug\httpmime-4.1.3-f830665dd68536c8d72bd7e125474f24c75fe1e6.jar" />
+    </item>
+
+</items>
