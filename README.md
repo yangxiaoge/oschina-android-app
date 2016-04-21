@@ -1,4 +1,5 @@
-# OSChina Android [客户端](http://www.oschina.net/app/)
+#摘自oschina,仅供个人学习!
+#OSChina Android [客户端](http://www.oschina.net/app/)
 
 ##写在前面的话
 从2.3版本开始，项目已经完成了gradle化，完全迁移到了android studio，如果想使用eclipse进行该项目的学习，可以clone [tag v2.2.1](http://git.oschina.net/oschina/android-app/tree/v2.2.1/)，不过需要注意的是，eclipse需要按照开发环境中提到的：进行butterknife注解设置
